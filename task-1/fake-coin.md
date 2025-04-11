@@ -14,7 +14,7 @@ A balance puzzle or weighing puzzle is a logic puzzle about balancing items  to 
 
 
 
-# Link to the app `http://sdetchallenge.fetch.com/`
+# Link to the app `[http://sdetchallenge.fetch.com/](https://sdetchallenge.fetch.com/)`
 
 Typically companies gives 3-4 working days to complete the task. 
 
